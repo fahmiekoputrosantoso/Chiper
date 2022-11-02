@@ -25,4 +25,4 @@
 
 # Hasil Output
 
-![img](pictures/hasil.PNG)
+![img](Pictures/hasil.PNG)
